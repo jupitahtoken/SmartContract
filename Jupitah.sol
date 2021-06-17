@@ -1,12 +1,11 @@
+
+// File: Jupitah.sol
+
 /**
    Welcome to Jupitah!
    Get your seatbelts ready for this journey!
    Moon landings every x holders!
    It's going to be quite a ride!
-   
-   Beware of any unnoficial link
-   every 3 days, you will be able to claim your BNB earnings 
-   https://jupitah.com 
  */
 
 //SPDX-License-Identifier: Unlicensed
